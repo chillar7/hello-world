@@ -1,1 +1,2 @@
-Print(Hello World!")
+Print("Hello World!")
+Print ("Good bye")
